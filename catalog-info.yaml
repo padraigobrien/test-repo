@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-repo
+  description: Description 😀 with emojis 🤖
   annotations:
     github.com/project-slug: padraigobrien/test-repo
 spec:
